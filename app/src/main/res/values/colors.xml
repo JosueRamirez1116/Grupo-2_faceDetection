@@ -2,4 +2,17 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fl_surface">#FAF9F6</color>
+    <color name="fl_surface_container_lowest">#FFFFFF</color>
+    <color name="fl_surface_container_low">#F4F4F0</color>
+    <color name="fl_surface_variant">#E2E3DF</color>
+    <color name="fl_on_surface">#1A1C1A</color>
+    <color name="fl_on_surface_variant">#404941</color>
+    <color name="fl_outline">#707A70</color>
+    <color name="fl_outline_variant">#BFC9BE</color>
+    <color name="fl_primary">#003C1F</color>
+    <color name="fl_primary_container">#00562E</color>
+    <color name="fl_on_primary">#FFFFFF</color>
+    <color name="fl_gold">#D6A014</color>
+    <color name="fl_guide_bg">#E8F1EC</color>
 </resources>
