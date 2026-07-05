@@ -2,8 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Permiso para usar la cámara -->
+    <!-- Permisos para usar la cámara y grabar audio -->
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
 
     <!-- La app puede usar cámara, pero no obliga a que el dispositivo tenga cámara -->
     <uses-feature
